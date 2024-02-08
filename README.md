@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @haris-habib
 - 👀 I’m interested in data science
-- 🌱 I’m currently going through the google data anayltics cerfiticate on coursera
 - 💞️ I’m looking to collaborate on any data science related projects
 - 📫 How to reach me : email haris.habib240@gmail.com
 
